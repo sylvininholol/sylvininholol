@@ -1,13 +1,15 @@
-<div align="center">
-  <span style="font-size: 1.5em; font-weight: bold;">Aluno de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro</span>
-  <br><br>
-  <hr style="margin: 20px 0; width: 50%;">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt="Java"/>
-</div>
+### Sylvino Prevot
 
-<!--
+Desenvolvedor de Software Full Cycle na [Eu Entrego\Envoy](https://www.euentrego.com.br/), atuando de ponta a ponta — da API à interface — em roteirização e integrações de alta disponibilidade para grandes varejistas. Formado em Ciência da Computação pela UFRRJ.
 
--->
+**No momento:** otimizando algoritmos de roteirização e APIs de alta disponibilidade no dia a dia da Eu Entrego\Envoy.
+
+#### O que eu construo
+
+**[BlipLeads](https://blipleads-landing.vercel.app/)** — SaaS que varre o Google Places por nicho/região, prioriza leads por score de oportunidade (sem site, sem WhatsApp, avaliação baixa) e organiza tudo em um Kanban pronto para o time de vendas.
+
+**[3R Barber]** — plataforma de agendamento para barbearias com fila em tempo real e reserva sem conta. Cloudflare Workers + D1 + Drizzle no backend, React + Vite no front, deploy 100% no free tier da Cloudflare.
+
+**[sylvino-page](https://sylvinoprevot.com.br)** — meu site pessoal, Astro Islands com zero JS desnecessário e 100/100 de performance/SEO.
+
+📫 [LinkedIn](https://linkedin.com/in/sylvino-prevot) · prevotsylvino@gmail.com
